@@ -1,3 +1,13 @@
+/*
+ * Fecha: 14/07/2011
+ * Autor: Cristóbal Medina López
+ * Licencia:
+ * Este Software está distribuido bajo la licencia general pública de GNU, GPL. Puedes encontrar esta licencia completa en http://www.gnu.org.
+ * Es gratuito, puedes copiar y utlizar el código libremente sin cargo alguno. Tienes derecho a modificar
+ * el codigo fuente y a distribuirlo por tu cuenta, siempre informando de la procedencia original.
+ * Buena parte de este código ha sido obtenida de los ejemplos de la web http://developer.android.com
+*/
+
 package cml.bluetoothled;
 import java.io.IOException;
 import java.io.InputStream;
